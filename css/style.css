@@ -55,7 +55,7 @@ body {
     width: 25%;
 } 
 
-.sidebar, .main {
+div.sidebar, div.main {
     height: 400px;
 }
 
