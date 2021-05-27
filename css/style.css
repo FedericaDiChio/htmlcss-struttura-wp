@@ -38,16 +38,17 @@ body {
 
 /* corpo centrale */
 
-.header-title {
-    height: 50px;
-    background-color: #87CEFA;
-}
-
 .wrapper {
     background-color: #1e90ff;
     height: 500px;
 
 }
+
+.header-title {
+    height: 50px;
+    background-color: #87CEFA;
+}
+
 
 main {
     margin: 0 15px;
