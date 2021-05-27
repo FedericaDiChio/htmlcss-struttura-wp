@@ -56,10 +56,17 @@ main {
     width: 25%;
 } 
 
-.my-container * {
+.info-style {
     background-color: #87CEFA;
     height: 400px;
 }
+
+/* .my-container > .sidebar, main {
+    background-color: #87CEFA;
+    height: 400px;
+} */
+
+
 
 /* footer  */
 footer {
